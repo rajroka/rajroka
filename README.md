@@ -9,7 +9,7 @@ I am a web developer and blogger from Nepal.
 
 - **E-commerce Website**  
   A full-featured e-commerce website built with Next.js, React, and Redux.  
-  [View Project](https://your-ecommerce-site.com)
+  [View Project](https://ggshop-vcns.vercel.app/)
 
 - **Blogging Site**  
   A blogging platform where I share tutorials and articles.  
