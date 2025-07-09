@@ -1,40 +1,44 @@
-<h1 align="center">Hi, I'm Raj Roka 👋</h1>
+# 👋 Hi, I'm Raj Roka
 
-<p align="center">
-  A passionate Full Stack Developer from Nepal 🇳🇵
-</p>
-
----
-
-### 💻 Tech Stack
-
-- 🔭 I’m currently working on: **Next.js E-commerce App**
-- 🌱 I’m currently learning: **Flask & AI integration with Next.js**
-- ⚡ Fun fact: I also design UI/UX in Figma!
-
-**Languages & Tools:**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+I'm a passionate full-stack web developer and UI/UX enthusiast based in Nepal 🇳🇵  
+I love building scalable web applications and writing clean, maintainable code.
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajroka&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajroka&theme=tokyonight" />
-</p>
+### 🛍️ E-Commerce Website
+A feature-rich e-commerce web application with user authentication, product filters, cart management, and responsive design.
+
+**Tech Stack:** Next.js, Redux, TailwindCSS, FakestoreAPI  
+**Features:**
+- Product listing with filters and categories
+- Add to cart and checkout
+- Login/Signup with JWT and NextAuth
+- Responsive and mobile-friendly UI
+
+🔗 [Live Site](https://your-ecommerce-site-link.vercel.app)  
+📂 [View Code](https://github.com/yourusername/ecommerce-project)
 
 ---
 
-### 📫 Let's Connect
+### ✍️ Blogging Site – [rajroka.com.np](https://rajroka.com.np)
+A modern blog platform where I share insights on web development, technology, and design.
 
-- 🌐 [Portfolio](https://rajroka.com.np)
-- 💼 [LinkedIn](https://www.linkedin.com/in/raj-roka/)
-- 🐦 [Twitter](https://twitter.com/yourhandle) *(optional)*
+**Tech Stack:** Next.js, MDX, TailwindCSS, GitHub Actions  
+**Features:**
+- SEO optimized and blazing fast
+- Custom blog layout with featured articles
+- Fully responsive
+- Markdown-powered content
+
+🔗 [Visit Blog](https://rajroka.com.np)  
+📂 [View Code](https://github.com/yourusername/blogging-site)
+
+---
+
+## 🧰 Tech Stack
+
+```js
+JavaScript | TypeScript | React.js | Next.js | TailwindCSS | Redux | MongoDB | Express.js | Node.js | Git | Figma
 
