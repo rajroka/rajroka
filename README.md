@@ -9,11 +9,17 @@ I am a web developer and blogger from Nepal.
 
 - **E-commerce Website**  
   A full-featured e-commerce website built with Next.js, React, and Redux.  
-  [View Project](https://your-ecommerce-site.com) *(replace with actual URL)*
+  [View Project](https://your-ecommerce-site.com)
 
 - **Blogging Site**  
   A blogging platform where I share tutorials and articles.  
   [rajroka.com.np](https://rajroka.com.np)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajroka&theme=radical)
 
 ---
 
@@ -32,10 +38,7 @@ I am a web developer and blogger from Nepal.
 ## 📫 How to reach me
 
 - Website: [rajroka.com.np](https://rajroka.com.np)  
-- LinkedIn: [linkedin.com/in/rajroka](https://linkedin.com/in/rajroka) *(replace with your link)*  
-- Email: your.email@example.com *(replace with your email)*
+- LinkedIn: [linkedin.com/in/rajroka](https://linkedin.com/in/rajroka)  
+- Email: your.email@example.com
 
----
-
-Thanks for visiting my profile! 🙏
 
