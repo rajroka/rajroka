@@ -1,44 +1,41 @@
-# 👋 Hi, I'm Raj Roka
+# Hi there, I'm Raj Roka 👋
 
-I'm a passionate full-stack web developer and UI/UX enthusiast based in Nepal 🇳🇵  
-I love building scalable web applications and writing clean, maintainable code.
-
----
-
-## 🚀 Projects
-
-### 🛍️ E-Commerce Website
-A feature-rich e-commerce web application with user authentication, product filters, cart management, and responsive design.
-
-**Tech Stack:** Next.js, Redux, TailwindCSS, FakestoreAPI  
-**Features:**
-- Product listing with filters and categories
-- Add to cart and checkout
-- Login/Signup with JWT and NextAuth
-- Responsive and mobile-friendly UI
-
-🔗 [Live Site](https://your-ecommerce-site-link.vercel.app)  
-📂 [View Code](https://github.com/yourusername/ecommerce-project)
+Welcome to my GitHub profile!  
+I am a web developer and blogger from Nepal.
 
 ---
 
-### ✍️ Blogging Site – [rajroka.com.np](https://rajroka.com.np)
-A modern blog platform where I share insights on web development, technology, and design.
+## 🚀 Projects Completed
 
-**Tech Stack:** Next.js, MDX, TailwindCSS, GitHub Actions  
-**Features:**
-- SEO optimized and blazing fast
-- Custom blog layout with featured articles
-- Fully responsive
-- Markdown-powered content
+- **E-commerce Website**  
+  A full-featured e-commerce website built with Next.js, React, and Redux.  
+  [View Project](https://your-ecommerce-site.com) *(replace with actual URL)*
 
-🔗 [Visit Blog](https://rajroka.com.np)  
-📂 [View Code](https://github.com/yourusername/blogging-site)
+- **Blogging Site**  
+  A blogging platform where I share tutorials and articles.  
+  [rajroka.com.np](https://rajroka.com.np)
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats
 
-```js
-JavaScript | TypeScript | React.js | Next.js | TailwindCSS | Redux | MongoDB | Express.js | Node.js | Git | Figma
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajroka&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajroka&layout=compact&theme=radical)
+
+---
+
+## 📫 How to reach me
+
+- Website: [rajroka.com.np](https://rajroka.com.np)  
+- LinkedIn: [linkedin.com/in/rajroka](https://linkedin.com/in/rajroka) *(replace with your link)*  
+- Email: your.email@example.com *(replace with your email)*
+
+---
+
+Thanks for visiting my profile! 🙏
 
